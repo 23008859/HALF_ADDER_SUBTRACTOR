@@ -71,45 +71,13 @@ endmodule
 
 
 **RTL Schematic**
-![320215714-a952de08-c27c-4a6f-85d5-858d943ae24f](https://github.com/23008859/HALF_ADDER_SUBTRACTOR/assets/139117979/c6b88e1e-762d-4b52-b3b1-72970f2bb21f)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![320215714-a952de08-c27c-4a6f-85d5-858d943ae24f](https://github.com/23008859/HALF_ADDER_SUBTRACTOR/assets/139117979/8dfe106e-2952-492a-9036-41cd03feed89)
 
 
 **Output/TIMING Waveform**
-![320215794-09100680-384d-41e2-a47c-7633a85c9a9b](https://github.com/23008859/HALF_ADDER_SUBTRACTOR/assets/139117979/6a2ca325-d93c-42de-88e5-b75c449f806a)
+![320215794-09100680-384d-41e2-a47c-7633a85c9a9b](https://github.com/23008859/HALF_ADDER_SUBTRACTOR/assets/139117979/e7887b9c-4f20-4ce2-a1f7-852540a3efa5)
+![320215833-a1705f54-c7cc-47e4-9ff9-78f8f766f2d5](https://github.com/23008859/HALF_ADDER_SUBTRACTOR/assets/139117979/8efe2baf-1b76-4d43-8fe4-579c61095b80)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![320215833-a1705f54-c7cc-47e4-9ff9-78f8f766f2d5](https://github.com/23008859/HALF_ADDER_SUBTRACTOR/assets/139117979/a8f43243-8fd2-46e0-828a-6ff4a29bb8e1)
 
 
 **Result:**

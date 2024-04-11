@@ -54,7 +54,7 @@ Figure -02 HALF Subtractor
 
 Developed by: ROSHINI S
 RegisterNumber: 212223230174
-```
+
 module halfadd_top(a,b,sum,carry);
 input a,b;
 output sum,carry; 
@@ -68,7 +68,7 @@ output D,Bo; // Outputs sum and carry for half adder:Outputs difference D,Borrow
 assign D = a ^ b;
   assign Bo = ~a & b;
 endmodule
-```
+
 
 **RTL Schematic**
 ![320215714-a952de08-c27c-4a6f-85d5-858d943ae24f](https://github.com/23008859/HALF_ADDER_SUBTRACTOR/assets/139117979/65750fb9-dab9-4bd6-bc2f-ba04f6a9785b)

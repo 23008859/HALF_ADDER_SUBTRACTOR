@@ -99,6 +99,16 @@ endmodule
 
 
 
+
+
+
+
+
+
+
+
+
+
 ![320215833-a1705f54-c7cc-47e4-9ff9-78f8f766f2d5](https://github.com/23008859/HALF_ADDER_SUBTRACTOR/assets/139117979/a8f43243-8fd2-46e0-828a-6ff4a29bb8e1)
 
 
